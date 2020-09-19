@@ -14,6 +14,8 @@ Codeblocks
 * [Tài liệu giáo khoa chuyên Tin - Bộ GD&ĐT - Quyền 1](https://goo.gl/QQMRN4)
 * [Tài liệu giáo khoa chuyên Tin - Bộ GD&ĐT - Quyền 1](https://drive.google.com/file/d/1Nh-X1uDHCNH_29JSuZJv8WzYGnrkUg6b/view?usp=sharing)
 * [Giải thuật và lập trình - Lê Minh Hoàng](https://goo.gl/ZQeofV)
+* [C++ Primer Plus](https://drive.google.com/file/d/18YPbl3WxlUW6oUXvQDKDZQZbwDbriBeJ/view?usp=sharing)
+* [Một số vấn đề đáng chú ý trong Tin học](https://drive.google.com/file/d/1k-EZi6J9Sxi92YhHkDAjTkqwJt3EWMIV/view?usp=sharing)
 
 ## Tổng quan kiến thức
 
@@ -45,4 +47,6 @@ Codeblocks
     * Tìm cây khung nhỏ nhất (MST - Minimum Spanning Tree)
     * Tìm đường đi ngắn nhất (Shortest Path)
 
+## 2020
 
+* [Phụ lục C++ Primer Plus](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/cpp_primer_appendix.md)
