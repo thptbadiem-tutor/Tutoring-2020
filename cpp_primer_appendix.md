@@ -1,3 +1,5 @@
+> Tài liệu này được viết lại/lược dịch tham khảo theo các chương phụ lục của sách [C++ Primer Plus](https://drive.google.com/file/d/18YPbl3WxlUW6oUXvQDKDZQZbwDbriBeJ/view?usp=sharing)
+
 # Phụ lục A: HỆ CƠ SỐ
 
 * Số nguyên trong hệ cơ số 8 (bát phân) - Octal Integers
