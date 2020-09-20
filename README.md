@@ -4,6 +4,8 @@
 
 Codeblocks  
 
+* [TẢI TUI NÈ](https://drive.google.com/file/d/1Tsq9_A6Hw0haur52Vue93JmVb6WvbSLg/view?usp=sharing)
+* <br>
 * [Tải về](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-nosetup.zip)
 * [Tải về 1 (dự phòng)](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-nosetup.zip/download)
 * [Tải về 2 (dự phòng)](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
@@ -49,5 +51,5 @@ Codeblocks
 
 ## 2020
 
-* [Bắt đầu với C++](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/setting_out_to_cpp.md)
+* [Bắt đầu với C++](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/setting_out_to_cpp.md) **20/09/2020**
 * [Phụ lục C++ Primer Plus](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/cpp_primer_appendix.md)
