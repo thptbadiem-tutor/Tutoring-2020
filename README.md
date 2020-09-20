@@ -11,6 +11,8 @@ Codeblocks
 * [Tải về 2 (dự phòng)](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe)
 * [Tải về 3 (dự phòng)](https://sourceforge.net/projects/codeblocks/files/Binaries/20.03/Windows/codeblocks-20.03mingw-setup.exe/download)
 
+![https://raw.githubusercontent.com/thptbadiem-tutor/Tutoring-2020/master/images/avatar_f68c9.jpg](https://raw.githubusercontent.com/thptbadiem-tutor/Tutoring-2020/master/images/avatar_f68c9.jpg)
+
 ## Tài liệu tham khảo
 
 * [Tài liệu giáo khoa chuyên Tin - Bộ GD&ĐT - Quyền 1](https://goo.gl/QQMRN4)
