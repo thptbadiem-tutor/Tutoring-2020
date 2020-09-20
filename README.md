@@ -49,4 +49,5 @@ Codeblocks
 
 ## 2020
 
+* [Bắt đầu với C++](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/setting_out_to_cpp.md)
 * [Phụ lục C++ Primer Plus](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/cpp_primer_appendix.md)
