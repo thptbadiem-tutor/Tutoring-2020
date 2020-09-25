@@ -58,5 +58,42 @@ Codeblocks
 #### 20/09
 
 * [Bắt đầu với C++](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/setting_out_to_cpp.md) 
-* [Bộ bài giảng C++](https://drive.google.com/drive/folders/1GXfM0VS6gnObx3-TK6DunuvHiku0ibjH?usp=sharing)  
+* [Bộ bài giảng C++](https://drive.google.com/drive/folders/1GXfM0VS6gnObx3-TK6DunuvHiku0ibjH?usp=sharing)      
+    * [C++ Bài 1 - Căn bản về C++](https://drive.google.com/file/d/13Lx7bQhyWYfzk5g523JTplws5pwiEvKt/view?usp=sharing)
 * [Phụ lục C++ Primer Plus](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/cpp_primer_appendix.md)
+
+#### 26/09
+
+* [C++ Bài 2 - Luồng điều khiển (Control Flow)](https://drive.google.com/file/d/1Ror_lG2iz17QmPnXfNrifBeZnkjh39-E/view?usp=sharing)
+* [C++ Bài 3 - Căn bản về hàm (Functions)](https://drive.google.com/file/d/1bwyhn5W2UShnEfPiQxB9CfFGfQODzJoy/view?usp=sharing)
+* [C++ Bài 4 - Tham số của hàm và Nạp chồng hàm (Function Arguments and Function Overload)](https://drive.google.com/file/d/1mly71_aoJgpPUaDCYSKK0tqWtL8fYaVI/view?usp=sharing)
+
+##### Biến - Kiểu dữ liệu - Các toán tử trong C++
+
+* Dữ liệu - [C++ Primer - Chapter 3](https://drive.google.com/file/d/1pyeUODUr6jA2doFTWD13PjPQuRQdJS91/view?usp=sharing)
+* Các kiểu dữ liệu phức tạp - [C++ Primer - Chapter 4](https://drive.google.com/file/d/1J66jnqqB9pe4wZ5jVxazOBTOug1Q0jrE/view?usp=sharing)
+
+##### Vòng lặp và Cấu trúc rẽ nhánh
+
+* Vòng lặp - [C++ Primer - Chapter 5](https://drive.google.com/file/d/1TEStf6zZ0kWawjXOuMpwQ8_Az0YXu6fr/view?usp=sharing)
+* Cấu trúc rẽ nhánh - [C++ Primer - Chapter 6](https://drive.google.com/file/d/1u7Eos4c_pu8v5685ViPHpE_y_jWWhNME/view?usp=sharing) 
+
+##### Hàm trong C++
+
+* [C++ Primer - Chapter 7](https://drive.google.com/file/d/1KeOj1NSWhN-UKNYEr3E38TWijUbEN59L/view?usp=sharing)
+    * Function Review
+    * Function Arguments and Passing by Value
+    * Functions and Array
+    * Functions and 2-D Arrays
+    * Functions and C-Style Strings
+    * Functions and Structures
+    * Recursion
+    * Pointers to Functions
+* [C++ Primer - Chapter 8](https://drive.google.com/file/d/1Md54w-Q6C4AWUciqCBVRFyWxXst7vPRr/view?usp=sharing)
+    * Inline Functions
+    * Reference Variables
+    * Default Arguments
+    * Function Overloading
+    * Function Templates
+
+    
