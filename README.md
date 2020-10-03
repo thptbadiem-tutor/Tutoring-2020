@@ -98,4 +98,9 @@ Codeblocks
     * Function Overloading
     * Function Templates
 
-    
+#### 03/10
+
+* [C++ Bài 5 - Mảng](https://drive.google.com/file/d/1duUsLdaGrpxIM3r62J-lOVHMGH8zgbmI/view?usp=sharing)
+* [C++ Bài 6 - struct và class](https://drive.google.com/file/d/1p-zwFOAdDu1jlctzPTeZz6gvvtP83x1x/view?usp=sharing)
+* [C++ Bài 7 - Hàm kiến tạo/Constructor và các công cụ khác](https://drive.google.com/file/d/1rP7uZ0Moj4j6KJcyfDOGPQd8tyhQCqGj/view?usp=sharing)
+* [C++ Bài 8 - Nạp chồng toán tử/Operator Overload](https://drive.google.com/file/d/18fc1BgLDLrlCvf6tDMsbjxmY1Je2YxVU/view?usp=sharing)
