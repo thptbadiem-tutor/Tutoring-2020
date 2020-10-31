@@ -127,3 +127,4 @@ Codeblocks
     * Số Fibonacci
     * Số Catalan
     * Xử lý số nguyên lớn
+* Giải thuật và lập trình (DSAP) - [Chương 1 - Một số kiến thức đại số tổ hợp](https://drive.google.com/file/d/1tYDnZ9iGTsF1x4v2dX7-p1QAgCi4OVVx/view?usp=sharing)
