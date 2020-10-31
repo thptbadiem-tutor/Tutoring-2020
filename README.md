@@ -119,12 +119,21 @@ Codeblocks
 
 #### 31/10
 
-* Tài liệu giáo khoa chuyên Tin - Tập 1 - [Chương 2 - Các kiến thức cơ bản](https://drive.google.com/file/d/1ib-s5dTXmpV-Rn3Z6qEuvkMdTUprNV4R/view?usp=sharing)
-    * Hệ đếm
-    * Số nguyên tố
-    * Ước số, bội số
-    * Lý thuyết tập hợp
-    * Số Fibonacci
-    * Số Catalan
-    * Xử lý số nguyên lớn
-* Giải thuật và lập trình (DSAP) - [Chương 1 - Một số kiến thức đại số tổ hợp](https://drive.google.com/file/d/1tYDnZ9iGTsF1x4v2dX7-p1QAgCi4OVVx/view?usp=sharing)
+_**Sách tham khảo**_  
+Tài liệu giáo khoa chuyên Tin - Tập 1 - [TLGKCT1](https://goo.gl/QQMRN4)  
+Sách Giải thuật và Lập trình - [DSAP](https://goo.gl/ZQeofV)  
+
+* (DSAP) - Phần 2 - Chương 1 - [Các bước cơ bản khi tiến hành giải các bài toán tin học](https://drive.google.com/file/d/1ARYavYUWpuDlsQ3v7YOns2fGoDLiBmje/view?usp=sharing)
+* Phân tích Thời gian chạy và độ phức tạp thuật toán
+    * (DSAP) Phần 2 - Chương 2 - [Phân tích thời gian thực hiện giải thuật](https://drive.google.com/file/d/1q8TebCpF5uisWKqqKgoaOqk-zqF0hGOy/view?usp=sharing)
+    * (TLGKCT1) Chương 1 - [Thuật toán và phân tích thuật toán](https://drive.google.com/file/d/1-md7nwOo03pRpi3T1DOftuk5nYTT6QM6/view?usp=sharing)
+* Các kiến thức cơ bản
+    * (TLGKCT1) Chương 2 - [Các kiến thức cơ bản](https://drive.google.com/file/d/1ib-s5dTXmpV-Rn3Z6qEuvkMdTUprNV4R/view?usp=sharing)
+        * Hệ đếm
+        * Số nguyên tố
+        * Ước số, bội số
+        * Lý thuyết tập hợp
+        * Số Fibonacci
+        * Số Catalan
+        * Xử lý số nguyên lớn
+    * (DSAP) Chương 1 - [Một số kiến thức đại số tổ hợp](https://drive.google.com/file/d/1tYDnZ9iGTsF1x4v2dX7-p1QAgCi4OVVx/view?usp=sharing)
