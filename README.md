@@ -104,3 +104,26 @@ Codeblocks
 * [C++ Bài 6 - struct và class](https://drive.google.com/file/d/1p-zwFOAdDu1jlctzPTeZz6gvvtP83x1x/view?usp=sharing)
 * [C++ Bài 7 - Hàm kiến tạo/Constructor và các công cụ khác](https://drive.google.com/file/d/1rP7uZ0Moj4j6KJcyfDOGPQd8tyhQCqGj/view?usp=sharing)
 * [C++ Bài 8 - Nạp chồng toán tử/Operator Overload](https://drive.google.com/file/d/18fc1BgLDLrlCvf6tDMsbjxmY1Je2YxVU/view?usp=sharing)
+
+#### 10/10
+
+* Nghỉ 
+
+#### 17/10
+
+
+
+#### 24/10
+
+* Nghỉ
+
+#### 31/10
+
+* Tài liệu giáo khoa chuyên Tin - Tập 1 - [Chương 2 - Các kiến thức cơ bản](https://drive.google.com/file/d/1ib-s5dTXmpV-Rn3Z6qEuvkMdTUprNV4R/view?usp=sharing)
+    * Hệ đếm
+    * Số nguyên tố
+    * Ước số, bội số
+    * Lý thuyết tập hợp
+    * Số Fibonacci
+    * Số Catalan
+    * Xử lý số nguyên lớn
