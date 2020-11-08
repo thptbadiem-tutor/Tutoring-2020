@@ -140,6 +140,9 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * Phân tích Thời gian chạy và độ phức tạp thuật toán
     * (DSAP) Phần 2 - Chương 2 - [Phân tích thời gian thực hiện giải thuật](https://drive.google.com/file/d/1q8TebCpF5uisWKqqKgoaOqk-zqF0hGOy/view?usp=sharing)
     * (TLGKCT1) Chuyên đề 1 - [Thuật toán và phân tích thuật toán](https://drive.google.com/file/d/1-md7nwOo03pRpi3T1DOftuk5nYTT6QM6/view?usp=sharing)
+
+#### 08/11
+
 * Các kiến thức cơ bản
     * (TLGKCT1) Chuyên đề 2 - [Các kiến thức cơ bản](https://drive.google.com/file/d/1f_uIYFCXk0Fro_DtQFzzVPQyTlH41abi/view?usp=sharing)
         * Hệ đếm
@@ -151,7 +154,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
         * Xử lý số nguyên lớn
     * (DSAP) Chương 1 - [Một số kiến thức đại số tổ hợp](https://drive.google.com/file/d/1iHLUnnABVFmph_5ntR4YoBSAAHNLpsZa/view?usp=sharing)
 
-#### 08/11
+#### 15/11
 
 * (TLGKCT1) Chuyên đề 4 - [Thiết kế giải thuật](https://drive.google.com/file/d/1aQkQDv_fiGNh5Vd4F506AUF3MN--3oaZ/view?usp=sharing)
     * Quay lui (Backtracking) 
@@ -162,8 +165,6 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * (DSAP) Phần 1 - Chương 2 - [Phương pháp sinh](https://drive.google.com/file/d/1wAVjzRWGdJ0FECwL8S3Gw6rHBKeIwQMS/view?usp=sharing) (Generation)
 * (DSAP) Phần 1 - Chương 3 - [Thuật toán quay lui](https://drive.google.com/file/d/10x1tM8fxectkhLOZDwBxiC3YJsdpS0n4/view?usp=sharing)
 * (DSAP) Phần 1 - Chương 4 - [Kỹ thuật nhánh cận](https://drive.google.com/file/d/1J2d9FF1UAS1Qr_FIu_tdJTwe6MMFwaYO/view?usp=sharing)
-
-#### 15/11
 
 #### 22/11
 
