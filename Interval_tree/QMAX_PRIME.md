@@ -6,16 +6,12 @@ Cho các phép biến đổi, mỗi phép có dạng `(0, 𝑢, 𝑘)`:
 
 Cho các câu hỏi, mỗi câu có dạng `(1, 𝑢, 𝑣)`: cho biết phần tử có giá trị lớn nhất thuộc đoạn `[𝑢, 𝑣]`
 
-Input
+### Input
 
 * `𝑛`: số phần tử của dãy (𝑛 ≤ 50000).
 * `𝑚`: số lượng biến đổi và câu hỏi (𝑚 ≤ 10<sup>5</sup>).
     * biến đổi có dạng: `0 𝑥 𝑣𝑎𝑙𝑢𝑒`
     * câu hỏi có dạng: `1 𝑥 𝑦`.
-
-Output
-
-Ghi ra trả lời cho lần lượt từng câu hỏi.
 
 ### Output
 

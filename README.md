@@ -229,3 +229,4 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |  4 | 17/10 | - Xâu <br> - Con trỏ và Mảng động <br> - Đọc ghi file
 |    | 24/10 | _Nghỉ_
 |  5 | 31/10 | - Các bước cơ bản khi tiến hành giải các bài toán tin học <br> - Độ phức tạp thuật toán
+|  6 | 08/11 | - Các kiến thức Toán và tổ hợp <br> - Interval Tree (Thuận, Thái Hòa)

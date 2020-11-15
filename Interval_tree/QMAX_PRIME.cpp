@@ -1,6 +1,3 @@
-/* Đề bài
- * https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/G
- */  
 #include <iostream>
 #include <vector>
 
@@ -27,7 +24,7 @@ void update(vector<int>& T, int id, int l, int r, int i, int k) {
         return;
     }
     if (l == r) { // l == i --> TH 2.1
-        T[id] = k;
+        T[id] += k;
         return;
     }
     // l <= i && i <= r --> TH 2.2
@@ -60,53 +57,14 @@ int getMax(vector<int>& T, int id, int l, int r, int u, int v) {
 int main() {
     int n, m, p;
     cin >> n >> m;
-    vector<int> a(n + 2, 0);
     vector<int> T(4 * n + 1, 0);
-    for (int i = 0; i < m; ++ i) {
-        int u, v, k;
-        cin >> u >> v >> k;
-        a[u] += k;
-        a[v + 1] -= k;
-    }
-    for (int i = 1; i <= n; ++ i) {
-        a[i] += a[i - 1];
-    }
-    
-    for (int i = 1; i <= n; ++ i) {
-        update(T, 1, 1, n, i, a[i]);
-    }
-
-    cin >> p;
-    for (int i = 0; i < p; ++ i) {
-        int u, v;
-        cin >> u >> v;
-        cout << getMax(T, 1, 1, n, u, v) << endl;
+    for (int i = 0, q, u, v; i < m; ++ i) {
+        cin >> q >> u >> v;
+        if (q) {
+            cout << getMax(T, 1, 1, n, u, v) << endl;
+        } else {
+            update(T, 1, 1, n, u, v);
+        }
     }
     return 0;
 }
-/*
-6
-1 3 2
-4 6 3
-2 4 5
-3 6 1
-
-   1  2  3  4  5  6        1   2   3   4   5   6
-   ----------------        ---------------------     
-   2  2  2                 2          -2            
-            3  3  3                    3          -3          
-      5  5  5                  5          -5              
-         1  1  1  1                1              -1     
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   9  9  9  9  9  9        9                      -9
-   ----------------        ---------------------    
-                           2   7   8   9   4   4                                 
-*/ 

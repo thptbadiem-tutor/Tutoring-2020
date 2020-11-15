@@ -1,3 +1,6 @@
+/* Đề bài
+ * https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/H
+ */
 #include <iostream>
 #include <vector>
 
