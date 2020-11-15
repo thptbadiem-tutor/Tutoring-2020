@@ -30,7 +30,7 @@ Codeblocks
     * [Quyển 2](https://drive.google.com/file/d/1Nh-X1uDHCNH_29JSuZJv8WzYGnrkUg6b/view?usp=sharing)
 * [Giải thuật và lập trình](https://drive.google.com/file/d/1o_aWKOaSeYBZgFDrb78vLY0Is3OrWjtb/view?usp=sharing) - Lê Minh Hoàng
 * [C++ Primer Plus](https://drive.google.com/file/d/18YPbl3WxlUW6oUXvQDKDZQZbwDbriBeJ/view?usp=sharing)
-* [Một số vấn đề đáng chú ý trong Tin học](https://drive.google.com/file/d/1k-EZi6J9Sxi92YhHkDAjTkqwJt3EWMIV/view?usp=sharing)
+* [Một số vấn đề đáng chú ý trong Tin học](https://dwrive.google.com/file/d/1k-EZi6J9Sxi92YhHkDAjTkqwJt3EWMIV/view?usp=sharing)
 
 <a name="tong-quan-kien-thuc"></a>
 ## Tổng quan kiến thức
@@ -223,6 +223,8 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
         * [QMAX](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/G) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX.cpp)
         * [QMAX cải tiến](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX_PRIME.md) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX_PRIME.cpp)
         * [QMAX2](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/H) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX2.cpp)
+        * [GSS](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/B)<sup><b>*</b></sup>
+        * <sup><b>*</b></sup>: Nâng cao
 * Binary Indexed Tree
     * [Tài liệu](https://drive.google.com/file/d/1mCPZ3_Ggj-FT-U1oIfXT1dxKgcrBcCxG/view?usp=sharing)
 
