@@ -154,7 +154,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
         * Xử lý số nguyên lớn
     * (DSAP) Chương 1 - [Một số kiến thức đại số tổ hợp](https://drive.google.com/file/d/1iHLUnnABVFmph_5ntR4YoBSAAHNLpsZa/view?usp=sharing)
 
-#### 15/11
+#### 22/11
 
 * (TLGKCT1) Chuyên đề 4 - [Thiết kế giải thuật](https://drive.google.com/file/d/1aQkQDv_fiGNh5Vd4F506AUF3MN--3oaZ/view?usp=sharing)
     * Quay lui (Backtracking) 
@@ -166,7 +166,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * (DSAP) Phần 1 - Chương 3 - [Thuật toán quay lui](https://drive.google.com/file/d/10x1tM8fxectkhLOZDwBxiC3YJsdpS0n4/view?usp=sharing)
 * (DSAP) Phần 1 - Chương 4 - [Kỹ thuật nhánh cận](https://drive.google.com/file/d/1J2d9FF1UAS1Qr_FIu_tdJTwe6MMFwaYO/view?usp=sharing)
 
-#### 22/11
+#### 29/11
 
 **Giải thuật đệ quy**  
 
@@ -177,7 +177,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * (DSAP) Phần 2 - Chương 4 - [Cấu trúc dữ liệu biểu diễn danh sách](https://drive.google.com/file/d/1-9xYS5hRBD04B5xAmgeTaaZXsEYAJ7T9/view?usp=sharing)
 * (TLGKCT2) Chuyên đề 6.1 - [Danh sách](https://drive.google.com/file/d/14Ddscb4Qg3PjDg_XQ76yghtfb_PtVBIi/view?usp=sharing)
 
-#### 29/11
+#### 06/12
 
 **Cấu trúc dữ liệu (Data Structure)**
 
@@ -202,7 +202,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 | **Deque** `/dɛk/` | - **Heap** <br> - Treap
 | | **Trie**
 
-#### 06/12 
+#### 13/12 
 
 **Sắp xếp (Sorting)**  
 
@@ -214,6 +214,17 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 **Tìm kiếm (Searching)**  
 
 * (DSAP) Phần 2 - Chương 9 - [Bài toán Tìm kiếm](https://drive.google.com/file/d/1jKaK17eekYpQ0MiSiGchdMSg-QWNxUzf/view?usp=sharing)
+
+#### Nâng cao
+
+* Interval Tree
+    * [Tài liệu](https://drive.google.com/file/d/1AjDurln2zin4DGxsB5FMFqFCftSqOcTl/view?usp=sharing)
+    * Bài tập mẫu
+        * [QMAX](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/G) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX.cpp)
+        * [QMAX cải tiến](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX_PRIME.md) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX_PRIME.cpp)
+        * [QMAX2](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/H) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX2.cpp)
+* Binary Indexed Tree
+    * [Tài liệu](https://drive.google.com/file/d/1mCPZ3_Ggj-FT-U1oIfXT1dxKgcrBcCxG/view?usp=sharing)
 
 <br> 
 
@@ -230,3 +241,4 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 24/10 | _Nghỉ_
 |  5 | 31/10 | - Các bước cơ bản khi tiến hành giải các bài toán tin học <br> - Độ phức tạp thuật toán
 |  6 | 08/11 | - Các kiến thức Toán và tổ hợp <br> - Interval Tree (Thuận, Thái Hòa)
+|  7 | 15/11 | - (Ôn tập) Các kiến thức Toán và tổ hợp <br> - Binary Indexed Tree
