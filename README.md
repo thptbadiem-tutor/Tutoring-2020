@@ -217,16 +217,22 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 #### Nâng cao
 
-* Interval Tree
+* Interval Tree (Segment Tree)
     * [Tài liệu](https://drive.google.com/file/d/1AjDurln2zin4DGxsB5FMFqFCftSqOcTl/view?usp=sharing)
     * Bài tập mẫu
         * [QMAX](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/G) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX.cpp)
         * [QMAX cải tiến](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX_PRIME.md) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX_PRIME.cpp)
         * [QMAX2](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/H) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX2.cpp)
-        * [GSS](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/B)<sup><b>*</b></sup>
+        * [GSS](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/B)<sup><b>*</b></sup> &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/GSS.cpp)
         * <sup><b>*</b></sup>: Nâng cao
-* Binary Indexed Tree
+* Binary Indexed Tree (Fenwick Tree)
     * [Tài liệu](https://drive.google.com/file/d/1mCPZ3_Ggj-FT-U1oIfXT1dxKgcrBcCxG/view?usp=sharing)
+    * Bài tập mẫu
+        * [NKINV - Dãy nghịch thế](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/F)
+        * [CRATE - Coder Rating](https://codeforces.com/group/FLVn1Sc504/contest/274487/problem/R)
+        * [NKTEAM - Team Selection](https://codeforces.com/group/FLVn1Sc504/contest/274825/problem/U)
+        * [KINV - Dãy nghịch thế độ dài K](https://codeforces.com/group/FLVn1Sc504/contest/274496/problem/O)
+        * [NKMOBILE* - IOI01 Mobiles](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/T)
 
 <br> 
 
@@ -241,6 +247,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 10/10 | _Nghỉ_
 |  4 | 17/10 | - Xâu <br> - Con trỏ và Mảng động <br> - Đọc ghi file
 |    | 24/10 | _Nghỉ_
-|  5 | 31/10 | - Các bước cơ bản khi tiến hành giải các bài toán tin học <br> - Độ phức tạp thuật toán
-|  6 | 08/11 | - Các kiến thức Toán và tổ hợp <br> - Interval Tree (Thuận, Thái Hòa)
-|  7 | 15/11 | - (Ôn tập) Các kiến thức Toán và tổ hợp <br> - Binary Indexed Tree
+|  5 | 31/10 | - Các bước cơ bản khi tiến hành giải các bài toán tin học (Lớp 10, 11) <br> - Độ phức tạp thuật toán (Lớp 10, 11)
+|  6 | 08/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree (Thuận, Thái Hòa)
+|  7 | 15/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree tt (Đô, Thái Hòa, Thuận)
+|  8 | 22/11 | - Binary Indexed Tree (Thuận)
