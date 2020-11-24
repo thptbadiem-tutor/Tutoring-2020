@@ -156,6 +156,10 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 #### 22/11
 
+* Nghỉ
+
+#### 29/11
+
 * (TLGKCT1) Chuyên đề 4 - [Thiết kế giải thuật](https://drive.google.com/file/d/1aQkQDv_fiGNh5Vd4F506AUF3MN--3oaZ/view?usp=sharing)
     * Quay lui (Backtracking) 
     * Nhánh và cận 
@@ -166,7 +170,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * (DSAP) Phần 1 - Chương 3 - [Thuật toán quay lui](https://drive.google.com/file/d/10x1tM8fxectkhLOZDwBxiC3YJsdpS0n4/view?usp=sharing)
 * (DSAP) Phần 1 - Chương 4 - [Kỹ thuật nhánh cận](https://drive.google.com/file/d/1J2d9FF1UAS1Qr_FIu_tdJTwe6MMFwaYO/view?usp=sharing)
 
-#### 29/11
+#### 06/11
 
 **Giải thuật đệ quy**  
 
@@ -177,7 +181,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * (DSAP) Phần 2 - Chương 4 - [Cấu trúc dữ liệu biểu diễn danh sách](https://drive.google.com/file/d/1-9xYS5hRBD04B5xAmgeTaaZXsEYAJ7T9/view?usp=sharing)
 * (TLGKCT2) Chuyên đề 6.1 - [Danh sách](https://drive.google.com/file/d/14Ddscb4Qg3PjDg_XQ76yghtfb_PtVBIi/view?usp=sharing)
 
-#### 06/12
+#### 13/12
 
 **Cấu trúc dữ liệu (Data Structure)**
 
@@ -202,14 +206,14 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 | **Deque** `/dɛk/` | - **Heap** <br> - Treap
 | | **Trie**
 
-#### 13/12 
+#### 20/12 
 
 **Sắp xếp (Sorting)**  
 
 * (TLGKCT1) Chuyên đề 3 - [Sắp xếp](https://drive.google.com/file/d/1MMF4ehBqHuvOTCiKJmpGVx2SvM6U2OHk/view?usp=sharing)
 * (DSAP) Phần 2 - Chương 8 - [Các thuật toán sắp xếp](https://drive.google.com/file/d/11sPA8L127-_sKdGWrrvXIfEkJMA_UfsJ/view?usp=sharing)
 
-#### 
+#### 27/12
 
 **Tìm kiếm (Searching)**  
 
@@ -225,14 +229,23 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
         * [QMAX2](https://codeforces.com/group/FLVn1Sc504/contest/274521/problem/H) &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX2.cpp)
         * [GSS](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/B)<sup><b>*</b></sup> &rarr; [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/GSS.cpp)
         * <sup><b>*</b></sup>: Nâng cao
+    * Mở rộng
+        * 2-Dimension Interval Tree - IT 2 chiều
+        * Quad Tree - Cây tứ phân
 * Binary Indexed Tree (Fenwick Tree)
     * [Tài liệu](https://drive.google.com/file/d/1mCPZ3_Ggj-FT-U1oIfXT1dxKgcrBcCxG/view?usp=sharing)
     * Bài tập mẫu
+        * [Example Problem 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT1.md)
+        * [Example Problem 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT2.md)
+    * Bài tập luyện tập
         * [NKINV - Dãy nghịch thế](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/F)
         * [CRATE - Coder Rating](https://codeforces.com/group/FLVn1Sc504/contest/274487/problem/R)
         * [NKTEAM - Team Selection](https://codeforces.com/group/FLVn1Sc504/contest/274825/problem/U)
         * [KINV - Dãy nghịch thế độ dài K](https://codeforces.com/group/FLVn1Sc504/contest/274496/problem/O)
         * [NKMOBILE* - IOI01 Mobiles](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/T)
+        * <sup><b>*</b></sup>: Nâng cao
+    * Mở rộng
+        * 2-Dimension Binary Indexed Tree - BIT 2 chiều
 
 <br> 
 
@@ -250,4 +263,5 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |  5 | 31/10 | - Các bước cơ bản khi tiến hành giải các bài toán tin học (Lớp 10, 11) <br> - Độ phức tạp thuật toán (Lớp 10, 11)
 |  6 | 08/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree (Thuận, Thái Hòa)
 |  7 | 15/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree tt (Đô, Thái Hòa, Thuận)
-|  8 | 22/11 | - Binary Indexed Tree (Thuận)
+|    | 22/11 | _Nghỉ_ <br> - Binary Indexed Tree (Thuận)
+|  8 | 29/11 |
