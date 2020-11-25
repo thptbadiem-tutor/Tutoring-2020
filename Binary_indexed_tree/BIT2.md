@@ -7,6 +7,16 @@ Cho dãy số a gồm `n` số nguyên dương, với mỗi phần tử `a[i]` t
 * n ≤ 10<sup>5</sup>
 * 0 < a<sub>i</sub> ≤ 10<sup>6</sup>
 
+## Input
+
+* Dòng đầu tiên chứa một số nguyên `n` duy nhất, là số lượng phần tử của dãy số
+* Dòng thứ hai chứa `n` số nguyên dương
+
+## Output
+
+* Gồm n dòng, mỗi dòng chứa một số nguyên
+
+
 ## Dữ liệu mẫu
 
 | Input | Output |
