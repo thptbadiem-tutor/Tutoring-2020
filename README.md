@@ -236,7 +236,11 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
     * [Tài liệu](https://drive.google.com/file/d/1mCPZ3_Ggj-FT-U1oIfXT1dxKgcrBcCxG/view?usp=sharing)
     * Bài tập mẫu
         * [Example Problem 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT1.md)
+            * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-1a.cpp) &rarr; Dùng mảng toàn cục/global array
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-1b.cpp) &rarr; Dùng vector
         * [Example Problem 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT2.md)
+            * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-2a.cpp) &rarr; Dùng mảng toàn cục/global array
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-2b.cpp) &rarr; Dùng vector
     * Bài tập luyện tập
         * [NKINV - Dãy nghịch thế](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/F)
         * [CRATE - Coder Rating](https://codeforces.com/group/FLVn1Sc504/contest/274487/problem/R)
