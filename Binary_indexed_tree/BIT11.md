@@ -2,7 +2,7 @@
 
 (Đây là phiên bản có giới hạn nhỏ hơn của bài [BIT12](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT12.md))
 
-Cho dãy số a gồm `n` số nguyên dương, với mỗi phần tử `a[i]` tìm giá trị `min(a[j])` (với `j < i`) thỏa `a[j] > a[i]` . (Giải thích: với mỗi giá trị `a[i]` trong dãy a tìm giá trị nhỏ nhất trong số các giá trị lớn hơn `a[i]` đã xuất hiện trước đó).
+Cho dãy số a gồm `n` số **nguyên**, với mỗi phần tử `a[i]` tìm giá trị `min(a[j])` (với `j < i`) thỏa `a[j] > a[i]` . (Giải thích: với mỗi giá trị `a[i]` trong dãy a tìm giá trị nhỏ nhất trong số các giá trị lớn hơn `a[i]` đã xuất hiện trước đó).
 
 Nếu giá trị cần tìm không tồn tại, in ra chuỗi `No solution`
 
@@ -14,7 +14,7 @@ Nếu giá trị cần tìm không tồn tại, in ra chuỗi `No solution`
 ## Input
 
 * Dòng đầu tiên chứa một số nguyên `n` duy nhất, là số lượng phần tử của dãy số
-* Dòng thứ hai chứa `n` số nguyên dương
+* Dòng thứ hai chứa `n` số nguyên
 
 ## Output
 
