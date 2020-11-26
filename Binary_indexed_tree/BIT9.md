@@ -1,5 +1,7 @@
 # Binary Indexed Tree - Example Problem 9
 
+(Đây là phiên bản có giới hạn lớn hơn của bài [BIT8](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT8.md))
+
 Cho dãy số a gồm `n` số **nguyên**, với mỗi phần tử `a[i]` tìm giá trị `max(a[j])` (với `j < i`) thỏa `a[j] < a[i]` . (Giải thích: với mỗi giá trị `a[i]` trong dãy a tìm giá trị lớn nhất trong số các giá trị nhỏ hơn `a[i]` đã xuất hiện trước đó).
 
 Nếu giá trị cần tìm không tồn tại, in ra chuỗi `No solution`
