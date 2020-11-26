@@ -1,5 +1,7 @@
 # Binary Indexed Tree - Example Problem 6
 
+(Đây là phiên bản có giới hạn lớn hơn của bài [BIT4](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT4.md))
+
 Cho dãy số a gồm `n` số **nguyên**, với mỗi phần tử `a[i]` tính tổng các giá trị `a[j]` (với `j < i`) thỏa điều kiện `a[j] < a[i]`).
 
 ## Giới hạn
