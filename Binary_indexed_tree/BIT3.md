@@ -1,5 +1,7 @@
 # Binary Indexed Tree - Example Problem 3
 
+(Đây là phiên bản có giới hạn nhỏ hơn của bài [BIT5](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT5.md))
+
 Cho dãy số a gồm `n` số **nguyên**, với mỗi phần tử `a[i]` đếm số lượng phần tử `a[j]` (với `j < i`) thỏa `a[j] < a[i]` . (Giải thích: với mỗi giá trị `a[i]` trong dãy a đếm số lượng giá trị trong dãy a nhỏ hơn `a[i]` đã xuất hiện trước đó).
 
 ## Giới hạn
