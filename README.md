@@ -170,7 +170,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * (DSAP) Phần 1 - Chương 3 - [Thuật toán quay lui](https://drive.google.com/file/d/10x1tM8fxectkhLOZDwBxiC3YJsdpS0n4/view?usp=sharing)
 * (DSAP) Phần 1 - Chương 4 - [Kỹ thuật nhánh cận](https://drive.google.com/file/d/1J2d9FF1UAS1Qr_FIu_tdJTwe6MMFwaYO/view?usp=sharing)
 
-#### 06/11
+#### 06/12
 
 **Giải thuật đệ quy**  
 
