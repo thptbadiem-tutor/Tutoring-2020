@@ -8,7 +8,8 @@
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-3.cpp) &rarr; Dùng mảng toàn cục
             * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-3-oop.cpp) &rarr; OOP 
         * [BIT Problem 5](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT5.md)
-            * Code giải mẫu
+            * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-5.cpp) &rarr; Dùng mảng toàn cục
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-5-oop.cpp) &rarr; OOP 
     * Bài toán tính tổng
         * [BIT Problem 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT2.md)
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-2a.cpp) &rarr; Dùng mảng toàn cục/global array
@@ -17,7 +18,8 @@
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-4.cpp) &rarr; Dùng mảng toàn cục
             * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-4-oop.cpp) &rarr; OOP 
         * [BIT Problem 6](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT6.md)
-            * Code giải mẫu
+            * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-6.cpp) &rarr; Dùng mảng toàn cục
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-6-oop.cpp) &rarr; OOP 
     * Bài toán tìm max
         * [BIT Problem 7](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT7.md)
         * [BIT Problem 8](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT8.md)

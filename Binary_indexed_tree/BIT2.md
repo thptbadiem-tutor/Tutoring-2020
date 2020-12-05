@@ -22,6 +22,7 @@ Cho dãy số a gồm `n` số nguyên dương, với mỗi phần tử `a[i]` t
 | Input | Output |
 |---|---|
 | 10 <br> 5 1 7 15 10 6 8 9 2 3 <br> <br> <br> <br> <br> <br> <br> <br> <br> | 0 <br> 0 <br> 6 <br> 13 <br> 13 <br> 6 <br> 19 <br> 27 <br> 1 <br> 3
+
 Giải thích
 
 * Với giá trị 5 không có giá trị nào nhỏ hơn 5 đã xuất hiện trước đó
