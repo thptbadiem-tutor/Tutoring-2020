@@ -20,6 +20,8 @@ Cho dãy số a gồm `n` số **nguyên**, với mỗi phần tử `a[i]` đế
 
 ## Dữ liệu mẫu
 
+### Ví dụ 1
+
 | Input | Output |
 |---|---|
 | 10 <br> 5 1 7 15 10 6 8 9 2 3 <br> <br> <br> <br> <br> <br> <br> <br> <br> | 0 <br> 0 <br> 2 <br> 3 <br> 3 <br> 2 <br> 4 <br> 5 <br> 1 <br> 2
@@ -36,3 +38,9 @@ Giải thích
 * Với giá trị 9 có 5 giá trị (5, 1, 7, 6, 8) thỏa điều kiện
 * Với giá trị 2 có 1 giá trị (1) thỏa điều kiện
 * Với giá trị 3 có 2 giá trị (1, 2) thỏa điều kiện
+
+### Ví dụ 2
+
+| Input | Output |
+|---|---|
+| 10 <br> -5 -1 -7 -15 -10 -6 -8 -9 -2 -3 <br> <br> <br> <br> <br> <br> <br> <br> <br> | 0 <br> 1 <br> 0 <br> 0 <br> 1 <br> 3 <br> 2 <br> 2 <br> 7 <br> 7

@@ -26,8 +26,8 @@ int main() {
     cin >> n;
     for (int i = 0, a; i < n; ++ i) {
         cin >> a;
-        Update(a + offset, 1);
         cout << Count(a + offset - 1) << endl;
+        Update(a + offset, 1);
     }
     return 0;
 }

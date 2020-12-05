@@ -35,8 +35,8 @@ int main() {
     cin >> n;
     for (int i = 0, a; i < n; ++ i) {
         cin >> a;
-        Tree.Update(a + offset, 1);
         cout << Tree.Count(a + offset - 1) << endl;
+        Tree.Update(a + offset, 1);
     }
     return 0;
 }
