@@ -7,7 +7,7 @@ const int MAX_VAL = 1000000;
 vector<int> T(MAX_LABEL + 1, MAX_VAL + 1);
 
 void Update(int label, int val) {
-    while (label <= MAX_VAL) {
+    while (label <= MAX_LABEL) {
         T[label] = min(T[label], val);
         label += label & -label;
     }

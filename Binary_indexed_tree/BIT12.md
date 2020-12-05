@@ -22,6 +22,8 @@ Nếu giá trị cần tìm không tồn tại, in ra chuỗi `No solution`
 
 ## Dữ liệu mẫu
 
+### Ví dụ 1
+
 | Input | Output |
 |---|---|
 | 10 <br> 5 1 7 15 10 6 8 9 2 3 <br> <br> <br> <br> <br> <br> <br> <br> <br> | No solution <br> 5 <br> No solution <br> No solution <br> 15 <br> 7 <br> 10 <br> 10 <br> 5 <br> 5
@@ -39,7 +41,7 @@ Giải thích
 * Với giá trị 2 các giá trị lớn hơn 2 đã xuất hiện trước đó là 5, 7, 15, 10, 6, 8, 9  &rarr; Giá trị nhỏ nhất là 5
 * Với giá trị 3 các giá trị lớn hơn 3 đã xuất hiện trước đó là 5, 7, 15, 10, 6, 8, 9  &rarr; Giá trị nhỏ nhất là 5
 
-<br>
+### Ví dụ 2
 
 | Input | Output |
 |---|---|
