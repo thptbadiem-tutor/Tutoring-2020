@@ -22,7 +22,9 @@
             * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-6-oop.cpp) &rarr; OOP 
     * Bài toán tìm max
         * [BIT Problem 7](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT7.md)
+            * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-7.cpp)
         * [BIT Problem 8](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT8.md)
+            * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-8.cpp)
         * [BIT Problem 9](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT9.md)
     * Bài toán tìm min + nghịch thế
         * [BIT Problem 10](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT10.md)
