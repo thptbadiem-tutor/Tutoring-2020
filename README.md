@@ -266,11 +266,11 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
                 * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-9-oop.cpp) &rarr; OOP
         * Bài toán tìm min + nghịch thế
             * [BIT Problem 10](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT10.md)
-                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-10.cpp) &rarr; OOP
+                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-10.cpp)
             * [BIT Problem 11](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT11.md)
-                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-11.cpp) &rarr; OOP
+                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-11.cpp)
             * [BIT Problem 12](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT12.md)
-                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-12.cpp) &rarr; OOP
+                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-12.cpp)
     * Bài tập luyện tập
         * [NKINV - Dãy nghịch thế](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/F)
         * [CRATE - Coder Rating](https://codeforces.com/group/FLVn1Sc504/contest/274487/problem/R)
