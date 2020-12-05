@@ -3,7 +3,7 @@
 
 using namespace std;
 const int max_val = 2000001;
-int T[max_val + 1] = {0};
+long long T[max_val + 1] = {0};
 
 void Update(int label, int val) {
     while (label <= max_val) {
