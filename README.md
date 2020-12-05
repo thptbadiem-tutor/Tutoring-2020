@@ -288,4 +288,4 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |  6 | 08/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree (Thuận, Thái Hòa)
 |  7 | 15/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree tt (Đô, Thái Hòa, Thuận)
 |    | 22/11 | _Nghỉ_ <br> - Binary Indexed Tree (Thuận)
-|  8 | 29/11 |
+|  8 | 29/11 | - Binary Indexed Tree (Đô, Thái Hòa, Thuận)
