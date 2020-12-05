@@ -242,21 +242,28 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
                 * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-1a.cpp) &rarr; Dùng mảng toàn cục/global array
                 * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-1b.cpp) &rarr; Dùng vector
             * [BIT Problem 3](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT3.md)
-                * Code giải mẫu
+                * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-3.cpp) &rarr; Dùng mảng toàn cục
+                * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-3-oop.cpp) &rarr; OOP 
             * [BIT Problem 5](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT5.md)
-                * Code giải mẫu
+                * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-5.cpp) &rarr; Dùng mảng toàn cục
+                * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-5-oop.cpp) &rarr; OOP 
         * Bài toán tính tổng
             * [BIT Problem 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT2.md)
                 * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-2a.cpp) &rarr; Dùng mảng toàn cục/global array
                 * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-2b.cpp) &rarr; Dùng vector
             * [BIT Problem 4](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT4.md)
-                * Code giải mẫu
+                * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-4.cpp) &rarr; Dùng mảng toàn cục
+                * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-4-oop.cpp) &rarr; OOP 
             * [BIT Problem 6](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT6.md)
-                * Code giải mẫu
+                * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-6.cpp) &rarr; Dùng mảng toàn cục
+                * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-6-oop.cpp) &rarr; OOP 
         * Bài toán tìm max
             * [BIT Problem 7](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT7.md)
+                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-7.cpp)
             * [BIT Problem 8](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT8.md)
+                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-8.cpp)
             * [BIT Problem 9](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT9.md)
+                * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/binary-indexed-tree-9-oop.cpp) &rarr; OOP
         * Bài toán tìm min + nghịch thế
             * [BIT Problem 10](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT10.md)
             * [BIT Problem 11](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/BIT11.md)
@@ -289,3 +296,4 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |  7 | 15/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree tt (Đô, Thái Hòa, Thuận)
 |    | 22/11 | _Nghỉ_ <br> - Binary Indexed Tree (Thuận)
 |  8 | 29/11 | - Binary Indexed Tree (Đô, Thái Hòa, Thuận)
+|  9 | 06/12 |
