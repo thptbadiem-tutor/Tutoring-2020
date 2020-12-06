@@ -36,6 +36,11 @@
             * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-12.cpp) 
 * Bài tập luyện tập
     * [NKINV - Dãy nghịch thế](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/F)
+        * Dùng **giá trị phần bù** để đếm các giá trị lớn hơn &rarr; đếm số nghịch thế
+        * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/NKINV.cpp) &rarr; Dùng mảng toàn cục
+        * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/NKINV-oop.cpp) &rarr; OOP
+        * Duyệt dãy theo thứ tự ngược lại + đếm các giá trị nhỏ hơn &rarr; đếm số nghịch thế
+        * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/NKINV_right-to-left.cpp) &rarr; Dùng mảng toàn cục
     * [CRATE - Coder Rating](https://codeforces.com/group/FLVn1Sc504/contest/274487/problem/R)
     * [NKTEAM - Team Selection](https://codeforces.com/group/FLVn1Sc504/contest/274825/problem/U)
     * [KINV - Dãy nghịch thế độ dài K](https://codeforces.com/group/FLVn1Sc504/contest/274496/problem/O)
