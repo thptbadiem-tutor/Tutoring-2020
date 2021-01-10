@@ -221,6 +221,18 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 <hr>
 
+#### 10/01/2021
+
+##### Heap và ứng dụng
+
+* [Tài liệu](https://drive.google.com/file/d/1zq_1RM8Km-wFt1hfosgh4BYjjavEaf02/view?usp=sharing)
+* Bài tập áp dụng
+    * [Heap1](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/J)
+    * [K-MIN](https://vn.spoj.com/problems/KMIN/)
+    * Tìm trung vị/median
+
+<hr>
+
 #### Nâng cao
 
 * Interval Tree (Segment Tree)
@@ -286,6 +298,19 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
     * Mở rộng
         * 2-Dimension Binary Indexed Tree - BIT 2 chiều
 
+#### Nâng cao 2
+
+##### Stack - Ngăn xếp
+
+##### Queue - Hàng đợi 
+
+##### Deque - Hàng đợi 2 đầu
+
+##### Bài tập áp dụng
+
+* [MIN-K](https://codeforces.com/group/FLVn1Sc504/contest/274506/problem/M)
+* [KAGAIN](https://codeforces.com/group/FLVn1Sc504/contest/274496/problem/M)
+
 <br> 
 
 <a name="nhat-ky-giang-day"></a>
@@ -304,8 +329,11 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |  7 | 15/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree tt (Đô, Thái Hòa, Thuận)
 |    | 22/11 | _Nghỉ_ <br> - Binary Indexed Tree (Thuận)
 |  8 | 29/11 | - Binary Indexed Tree (Đô, Thái Hòa, Thuận)
-|  9 | 06/12 | - Binary Indexed Tree <br> Interval Tree
-| 10 | 13/12 | - Binary Indexed Tree <br> Interval Tree
-|    | 20/12 | _Nghỉ_ (_ôn thi học kì_)
-|    | 27/12 | _Nghỉ_ (_ôn thi học kì_)
-|    | 31/12 | _Nghỉ_
+|  9 | 06/12 | - Binary Indexed Tree <br> - Interval Tree
+| 10 | 13/12 | - Binary Indexed Tree <br> - Interval Tree
+|    | 20/12 | _Nghỉ_ (_ôn thi học kì_) |
+|    | 27/12 | _Nghỉ_ (_ôn thi học kì_) |
+|    | 31/12 | _Nghỉ_ |
+|    | 03/01 | _Nghỉ tết_ |
+| 11 | 10/01 | - Heap
+| 12 | 17/01 | 
