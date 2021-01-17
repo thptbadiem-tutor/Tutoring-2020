@@ -227,7 +227,10 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 * [Tài liệu](https://drive.google.com/file/d/1zq_1RM8Km-wFt1hfosgh4BYjjavEaf02/view?usp=sharing)
 * Bài tập áp dụng
-    * [Heap1](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/J)
+    * [HEAP1](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/J)
+        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1.cpp) với `priority_queue`
+        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-heap.cpp) với heap tự cài đặt
+        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-oop-heap.cpp) với heap tự cài đặt + hướng đối tượng OOP
     * [K-MIN](https://vn.spoj.com/problems/KMIN/)
     * Tìm trung vị/median
     * Tìm phần tử thứ k
