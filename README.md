@@ -230,6 +230,9 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
     * [Heap1](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/J)
     * [K-MIN](https://vn.spoj.com/problems/KMIN/)
     * Tìm trung vị/median
+    * Tìm phần tử thứ k
+        * [Kth largest element in an array - LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array)
+        * [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 
 <hr>
 
@@ -335,5 +338,5 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 27/12 | _Nghỉ_ (_ôn thi học kì_) |
 |    | 31/12 | _Nghỉ_ |
 |    | 03/01 | _Nghỉ tết_ |
-| 11 | 10/01 | - Heap
-| 12 | 17/01 | 
+| 11 | 10/01 | - C++ (lớp 10) <br> - Heap (lớp 11, 12)
+| 12 | 17/01 | - C++ (lớp 10) <br> - Heap (tiếp theo)
