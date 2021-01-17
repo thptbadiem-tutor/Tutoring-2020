@@ -314,6 +314,20 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * [MIN-K](https://codeforces.com/group/FLVn1Sc504/contest/274506/problem/M)
 * [KAGAIN](https://codeforces.com/group/FLVn1Sc504/contest/274496/problem/M)
 
+<hr>
+
+#### Nâng cao 3 - Quy hoạch động
+
+##### Tài liệu
+
+Đọc theo thứ tự  
+
+1. [KCBOOK](https://drive.google.com/file/d/1QkHTZnlr2QHs1CmO4zEQS73FjslCPGpG/view?usp=sharing)
+2. [KCBOOK3](https://drive.google.com/file/d/1c_iB2CnHOv53IPa4e3BkXDtFFDAfWF-g/view?usp=sharing)
+3. [Chuyên đề Quy hoạch động trạng thái](https://drive.google.com/file/d/1ZV5JjiB3o_1sRNF-w6vi1BPG8PMvx9Nl/view?usp=sharing)
+
+##### Giải bài tập
+
 <br> 
 
 <a name="nhat-ky-giang-day"></a>
@@ -325,13 +339,13 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |  2 | 26/09 | - Luồng điều khiển <br> - Hàm <br> - Nạp chồng hàm
 |  3 | 03/10 | - Mảng <br> - Struct và Class
 |    | 10/10 | _Nghỉ_
-|  4 | 17/10 | - Xâu <br> - Con trỏ và Mảng động <br> - Đọc ghi file
+|  **4** | 17/10 | - Xâu <br> - Con trỏ và Mảng động <br> - Đọc ghi file
 |    | 24/10 | _Nghỉ_
 |  5 | 31/10 | - Các bước cơ bản khi tiến hành giải các bài toán tin học (Lớp 10, 11) <br> - Độ phức tạp thuật toán (Lớp 10, 11)
 |  6 | 08/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree (Thuận, Thái Hòa)
 |  7 | 15/11 | - (Tự đọc tài liệu) Các kiến thức Toán và tổ hợp (Lớp 10, 11) <br> - Interval Tree tt (Đô, Thái Hòa, Thuận)
 |    | 22/11 | _Nghỉ_ <br> - Binary Indexed Tree (Thuận)
-|  8 | 29/11 | - Binary Indexed Tree (Đô, Thái Hòa, Thuận)
+|  **8** | 29/11 | - Binary Indexed Tree (Đô, Thái Hòa, Thuận)
 |  9 | 06/12 | - Binary Indexed Tree <br> - Interval Tree
 | 10 | 13/12 | - Binary Indexed Tree <br> - Interval Tree
 |    | 20/12 | _Nghỉ_ (_ôn thi học kì_) |
@@ -339,4 +353,4 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 31/12 | _Nghỉ_ |
 |    | 03/01 | _Nghỉ tết_ |
 | 11 | 10/01 | - C++ (lớp 10) <br> - Heap (lớp 11, 12)
-| 12 | 17/01 | - C++ (lớp 10) <br> - Heap (tiếp theo)
+| **12** | 17/01 | - C++ (lớp 10) <br> - Heap (tiếp theo)
