@@ -25,4 +25,3 @@ Cho 1 dãy số `n` phần tử và cho `q` truy vấn thuộc 1 trong 3 loại:
 | Input | Output |
 |---|---|
 | 5 <br> 2 3 7 6 8 <br> 5 <br> 2 <br> 0 <br> 2 <br> 0 <br> 2 | 8 <br> 7 <br> 6 <br> <br> <br> <br> <br> <br>
-
