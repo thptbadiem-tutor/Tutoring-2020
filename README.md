@@ -236,19 +236,20 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
     * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-heap.cpp) với heap tự cài đặt
     * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-oop-heap.cpp) với heap tự cài đặt + hướng đối tượng OOP
 * [K-MIN](https://vn.spoj.com/problems/KMIN/)
-* LeetCode [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/KMIN.cpp) với `priority_queue` + `class so sánh`
+* LeetCode -  [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
 
     
 ###### Tìm trung vị/median
 
-* LeetCode [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) 
+* LeetCode - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) 
     * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/find-median-from-data-stream.cpp)
-* LeetCode [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+* LeetCode - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 
 ###### Tìm phần tử thứ k
 
-* LeetCode [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array)
-* LeetCode [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
+* LeetCode - [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+* LeetCode - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 
 <hr>
 
