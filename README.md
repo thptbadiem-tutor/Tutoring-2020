@@ -225,17 +225,30 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 ##### Heap và ứng dụng
 
+##### Tài liệu
+
 * [Tài liệu](https://drive.google.com/file/d/1zq_1RM8Km-wFt1hfosgh4BYjjavEaf02/view?usp=sharing)
-* Bài tập áp dụng
-    * [HEAP1](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/J)
-        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1.cpp) với `priority_queue`
-        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-heap.cpp) với heap tự cài đặt
-        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-oop-heap.cpp) với heap tự cài đặt + hướng đối tượng OOP
-    * [K-MIN](https://vn.spoj.com/problems/KMIN/)
-    * Tìm trung vị/median
-    * Tìm phần tử thứ k
-        * [Kth largest element in an array - LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array)
-        * [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
+
+##### Bài tập áp dụng
+
+* [HEAP1](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/J)
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1.cpp) với `priority_queue`
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-heap.cpp) với heap tự cài đặt
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/HEAP1-oop-heap.cpp) với heap tự cài đặt + hướng đối tượng OOP
+* [K-MIN](https://vn.spoj.com/problems/KMIN/)
+* LeetCode [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
+
+    
+###### Tìm trung vị/median
+
+* LeetCode [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) 
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/find-median-from-data-stream.cpp)
+* LeetCode [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+
+###### Tìm phần tử thứ k
+
+* LeetCode [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+* LeetCode [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
 
 <hr>
 
