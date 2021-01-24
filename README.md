@@ -329,6 +329,10 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 * [MIN-K](https://codeforces.com/group/FLVn1Sc504/contest/274506/problem/M)
 * [KAGAIN](https://codeforces.com/group/FLVn1Sc504/contest/274496/problem/M)
+* Dãy ngoặc
+    * LeetCode - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+    * LeetCode - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+    * LeetCode - tag [#heap](https://leetcode.com/tag/stack/)
 
 <hr>
 
@@ -368,5 +372,6 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 27/12 | _Nghỉ_ (_ôn thi học kì_) |
 |    | 31/12 | _Nghỉ_ |
 |    | 03/01 | _Nghỉ tết_ |
-| 11 | 10/01 | - C++ (lớp 10) <br> - Heap (lớp 11, 12)
-| **12** | 17/01 | - C++ (lớp 10) <br> - Heap (tiếp theo)
+| 11 | 10/01 | - C++ (lớp 10) <hr> - Heap (lớp 11, 12)
+| **12** | 17/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo)
+| 13 | 24/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo; lớp 11, 12) <br> - Stack, Queue, Deque (lớp 11, 12)
