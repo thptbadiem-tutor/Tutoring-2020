@@ -238,6 +238,10 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * [K-MIN](https://vn.spoj.com/problems/KMIN/)
     * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/KMIN.cpp) với `priority_queue` + `class so sánh`
 * LeetCode -  [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/last-stone-weight.cpp) với `priority_queue`
+* LeetCode - [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples)
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/maximum-number-of-eaten-apples.cpp) với `priority_queue`
+* LeetCode - tag [#heap](https://leetcode.com/tag/heap)
 
     
 ###### Tìm trung vị/median
@@ -333,7 +337,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 * Dãy ngoặc
     * LeetCode - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
     * LeetCode - [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-    * LeetCode - tag [#heap](https://leetcode.com/tag/stack/)
+    * LeetCode - tag [#stack](https://leetcode.com/tag/stack/)
 
 <hr>
 
