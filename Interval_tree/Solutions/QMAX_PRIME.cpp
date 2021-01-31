@@ -1,5 +1,5 @@
 /* Đề bài
- * https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/QMAX_PRIME.md
+ * https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/Problems/QMAX_PRIME.md
  */
 #include <iostream>
 #include <vector>
