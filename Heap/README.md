@@ -2,7 +2,13 @@
 
 * [Tài liệu](https://drive.google.com/file/d/1zq_1RM8Km-wFt1hfosgh4BYjjavEaf02/view?usp=sharing)
 
-# Cài heap với `priority_queue`
+# Heap tự cài đặt
+
+* [Heap max](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/heap_max.cpp)
+* [Heap min](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/heap_min.cpp)
+* [Heap cài theo OOP](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/heap_oop.cpp)
+
+# Dùng `priority_queue` để làm heap
 
 * [Ví dụ](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/priority_queue.cpp)
 * Sắp xếp [Heap sort](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/heap_sort_priority_queue.cpp)
@@ -26,7 +32,7 @@
 
 * LeetCode - [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) 
     * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/find-median-from-data-stream.cpp)
-* LeetCode - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+* LeetCode - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) &rarr; nâng cao
 
 ## Tìm phần tử thứ k
 
