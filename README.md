@@ -247,7 +247,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 <hr>
 
-#### Nâng cao 3 - Quy hoạch động
+#### Nâng cao 3 - Quy hoạch động/Dynamic Programming
 
 ##### Tài liệu
 
