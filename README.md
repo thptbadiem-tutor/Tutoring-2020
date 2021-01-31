@@ -55,6 +55,8 @@ Codeblocks
     * Hàng đợi (Queue)
     * Hàng đợi 2 đầu (Deque /dɛk/)
     * Vun đống ([Heap](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/README.md))
+    * Interval Tree (Segment Tree - [Cây phân đoạn](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Interval_tree/README.md))
+    * Binary Indexed Tree (Fenwick Tree - [Cây chỉ số nhị phân](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/README.md))
 * Lý thuyết [đồ thị](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Graph_Theory/README.md):
     * Các khái niệm cơ bản trong đồ thị
     * Các kỹ thuật tìm kiếm/duyệt đồ thị:

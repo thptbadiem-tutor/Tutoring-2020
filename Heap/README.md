@@ -2,6 +2,11 @@
 
 * [Tài liệu](https://drive.google.com/file/d/1zq_1RM8Km-wFt1hfosgh4BYjjavEaf02/view?usp=sharing)
 
+# Cài heap với `priority_queue`
+
+* [Ví dụ](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/priority_queue.cpp)
+* Sắp xếp [Heap sort](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/heap_sort_priority_queue.cpp)
+
 # Bài tập áp dụng
 
 * [HEAP1](https://codeforces.com/group/FLVn1Sc504/contest/274493/problem/J)
