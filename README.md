@@ -54,8 +54,8 @@ Codeblocks
     * Ngăn xếp (Stack)
     * Hàng đợi (Queue)
     * Hàng đợi 2 đầu (Deque /dɛk/)
-    * Vun đống (Heap)
-* Lý thuyết đồ thị:
+    * Vun đống ([Heap](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/README.md))
+* Lý thuyết [đồ thị](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Graph_Theory/README.md):
     * Các khái niệm cơ bản trong đồ thị
     * Các kỹ thuật tìm kiếm/duyệt đồ thị:
         * Tìm kiếm/Duyệt theo chiều sâu (DFS - Deepth First Search)
@@ -203,7 +203,7 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 | Linked List <br> - Singly Linked List <br> - Doubly Linked List | **Binary Search Tree** |
 | **Stack** | - 2-3 Tree <br> - 2-3-4 Tree <br> - B-Tree |
 | **Queue** | - Splay Tree <br> - AVL Tree <br> - Red-black tree |
-| **Deque** `/dɛk/` | - **Heap** <br> - Treap
+| **Deque** `/dɛk/` | - **Heap**[\*](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/README.md) <br> - Treap
 | | **Trie**
 
 #### 20/12 
@@ -221,11 +221,16 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 <hr>
 
-#### 10/01/2021
+####  Heap và ứng dụng
 
-##### Heap và ứng dụng
+* [Nội dung](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/README.md)  
+&nbsp;
 
-* [Nội dung](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/README.md)
+<hr>
+
+#### Lý thuyết đồ thị
+
+* [Nội dung](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Graph_Theory/README.md)  
 
 <hr>
 
