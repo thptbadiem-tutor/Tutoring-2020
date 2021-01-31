@@ -252,8 +252,10 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 
 ###### Tìm phần tử thứ k
 
-* LeetCode - [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array)
 * LeetCode - [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream)
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/kth-largest-element-in-an-array.cpp) &rarr; dùng `priority queue`
+* LeetCode - [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array)
+    * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Heap/Solutions/kth-largest-element-in-an-array.cpp)
 
 <hr>
 
@@ -378,7 +380,8 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 20/12 | _Nghỉ_ (_ôn thi học kì_) |
 |    | 27/12 | _Nghỉ_ (_ôn thi học kì_) |
 |    | 31/12 | _Nghỉ_ |
-|    | 03/01 | _Nghỉ tết_ |
-| 11 | 10/01 | - C++ (lớp 10) <hr> - Heap (lớp 11, 12)
-| **12** | 17/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo)
-| 13 | 24/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo; lớp 11, 12) <br> - Stack, Queue, Deque (lớp 11, 12)
+|    | 03/01 | _Nghỉ tết dương lịch_ |
+| 11 | 10/01 | - C++ (lớp 10) <hr> - Heap (lớp 11, 12) | 
+| **12** | 17/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo) | 
+| 13 | 24/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo; lớp 11, 12) <br> - Stack, Queue, Deque (lớp 11, 12) | 
+| 14 | 31/01 | - Stack, Queue, Deque (lớp 11, 12) |
