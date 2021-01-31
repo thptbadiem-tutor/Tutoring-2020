@@ -6,20 +6,20 @@
             * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-1b.cpp) &rarr; Dùng vector
         * [BIT Problem 3](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT3.md)
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-3.cpp) &rarr; Dùng mảng toàn cục
-            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-3-oop.cpp) &rarr; OOP 
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-3-oop.cpp) &rarr; OOP
         * [BIT Problem 5](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT5.md)
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-5.cpp) &rarr; Dùng mảng toàn cục
-            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-5-oop.cpp) &rarr; OOP 
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-5-oop.cpp) &rarr; OOP
     * Bài toán tính tổng
         * [BIT Problem 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT2.md)
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-2a.cpp) &rarr; Dùng mảng toàn cục/global array
             * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-2b.cpp) &rarr; Dùng vector
         * [BIT Problem 4](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT4.md)
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-4.cpp) &rarr; Dùng mảng toàn cục
-            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-4-oop.cpp) &rarr; OOP 
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-4-oop.cpp) &rarr; OOP
         * [BIT Problem 6](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT6.md)
             * [Code giải mẫu 1](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-6.cpp) &rarr; Dùng mảng toàn cục
-            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-6-oop.cpp) &rarr; OOP 
+            * [Code giải mẫu 2](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-6-oop.cpp) &rarr; OOP
     * Bài toán tìm max
         * [BIT Problem 7](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT7.md)
             * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-7.cpp)
@@ -33,7 +33,7 @@
         * [BIT Problem 11](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT11.md)
             * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-11.cpp)
         * [BIT Problem 12](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Problems/BIT12.md)
-            * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-12.cpp) 
+            * [Code giải mẫu](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Binary_indexed_tree/Solutions/binary-indexed-tree-12.cpp)
 * Bài tập luyện tập
     * [NKINV - Dãy nghịch thế](https://codeforces.com/group/FLVn1Sc504/contest/274824/problem/F)
         * Dùng **giá trị phần bù** để đếm các giá trị lớn hơn &rarr; đếm số nghịch thế
