@@ -18,6 +18,5 @@
     * LeetCode - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)
         * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Stack_Queue_Deque/Solutions/minimum-add-to-make-parentheses-valid.cpp)
     * LeetCode - [Simplify Path](https://leetcode.com/problems/simplify-path)
-        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Stack_Queue_Deque/Solutions/valid-parentheses.cpp)
+        * [Solution](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/Stack_Queue_Deque/Solutions/simplify-path.cpp)
     * LeetCode - tag [#stack](https://leetcode.com/tag/stack/)
-
