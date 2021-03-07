@@ -293,4 +293,5 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 | 11 | 10/01 | - C++ (lớp 10) <hr> - Heap (lớp 11, 12) | 
 | **12** | 17/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo) | 
 | 13 | 24/01 | - C++ (lớp 10) <hr> - Heap (tiếp theo; lớp 11, 12) <br> - Stack, Queue, Deque (lớp 11, 12) | 
-| 14 | 31/01 | - Stack, Queue, Deque (lớp 11, 12) |
+| **14** | 31/01 | - Stack, Queue, Deque (lớp 11, 12) |
+| 15 | 07/03 | |
