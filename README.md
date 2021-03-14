@@ -6,12 +6,18 @@
 
 <details close><summary>Mục lục</summary>
 
+* [Đề thi](#de-thi) - Luyện tập
 * [MÔI TRƯỜNG LẬP TRÌNH](#moi-truong-lap-trinh)
 * [TÀI LIỆU THAM KHẢO](#tai-lieu-tham-khao)
 * [TỔNG QUAN KIẾN THỨC](#tong-quan-kien-thuc)
 * [NHẬT KÝ GIẢNG DẠY](#nhat-ky-giang-day)
 
 </details>
+
+<a name="de-thi"></a>
+## Đề thi
+
+* TPHCM Lớp 12 [2018](https://drive.google.com/file/d/1Xtynam3tdVSQkFeHiKmVq9BSY9NL1yRq/view?usp=sharing)
 
 <a name="moi-truong-lap-trinh"></a>
 ## Môi trường lập trình
@@ -299,3 +305,4 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 21/02 | _Nghỉ tết_ |
 |    | 28/02 | _Nghỉ dịch_ |
 | 15 | 07/03 | |
+| 16 | 14/03 | | 
