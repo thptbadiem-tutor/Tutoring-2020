@@ -18,6 +18,8 @@
 ## Đề thi
 
 * TPHCM Lớp 12 [2018](https://drive.google.com/file/d/1Xtynam3tdVSQkFeHiKmVq9BSY9NL1yRq/view?usp=sharing)
+* Olympic Tin 10 [2019](https://drive.google.com/file/d/13UbKHhamP2lfypSN5c1sZQCtX_73XGr_/view?usp=sharing)
+* Olympic Tin 11 [2019](https://drive.google.com/file/d/19QCcKpE51yjGiWLgmqc53bAeuVcEeA4B/view?usp=sharing)
 
 <a name="moi-truong-lap-trinh"></a>
 ## Môi trường lập trình
@@ -36,7 +38,7 @@ Codeblocks
     * [Quyển 2](https://drive.google.com/file/d/1Nh-X1uDHCNH_29JSuZJv8WzYGnrkUg6b/view?usp=sharing)
 * [Giải thuật và lập trình](https://drive.google.com/file/d/1o_aWKOaSeYBZgFDrb78vLY0Is3OrWjtb/view?usp=sharing) - Lê Minh Hoàng
 * [C++ Primer Plus](https://drive.google.com/file/d/18YPbl3WxlUW6oUXvQDKDZQZbwDbriBeJ/view?usp=sharing)
-* [Một số vấn đề đáng chú ý trong Tin học](https://dwrive.google.com/file/d/1k-EZi6J9Sxi92YhHkDAjTkqwJt3EWMIV/view?usp=sharing)
+* [Một số vấn đề đáng chú ý trong Tin học](https://drive.google.com/file/d/1k-EZi6J9Sxi92YhHkDAjTkqwJt3EWMIV/view?usp=sharing)
 
 <a name="tong-quan-kien-thuc"></a>
 ## Tổng quan kiến thức
@@ -306,3 +308,5 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 |    | 28/02 | _Nghỉ dịch_ |
 | 15 | 07/03 | |
 | 16 | 14/03 | | 
+| 17 | 21/03 | |
+| **18** | 04/04 | - Giải đề thi |
