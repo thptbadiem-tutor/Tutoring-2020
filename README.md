@@ -19,6 +19,7 @@
 
 * TPHCM Lớp 12 [2018](https://drive.google.com/file/d/1Xtynam3tdVSQkFeHiKmVq9BSY9NL1yRq/view?usp=sharing)
 * Olympic Tin 10 [2019](https://drive.google.com/file/d/13UbKHhamP2lfypSN5c1sZQCtX_73XGr_/view?usp=sharing)
+    * UPGRADE - [Lời giải](https://github.com/thptbadiem-tutor/Tutoring-2020/blob/master/De_thi/UPGRADE.cpp)
 * Olympic Tin 11 [2019](https://drive.google.com/file/d/19QCcKpE51yjGiWLgmqc53bAeuVcEeA4B/view?usp=sharing)
 
 <a name="moi-truong-lap-trinh"></a>
@@ -311,3 +312,4 @@ Sách Giải thuật và Lập trình - [DSAP](https://drive.google.com/file/d/1
 | 17 | 21/03 | |
 | **18** | 04/04 | - Giải đề thi |
 | 19 | 13/04 | - Giải đề thi |
+| **20** | 16/04 | - Giải đề thi |
